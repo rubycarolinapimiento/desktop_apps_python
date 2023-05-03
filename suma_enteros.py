@@ -114,5 +114,5 @@ bt_salir=Button(frame_operaciones , text="SALIR", command=salir)
 bt_salir.place(x=335,y=35 , width=100, height=30)
 
 ventana_principal.mainloop()
-
+   
 

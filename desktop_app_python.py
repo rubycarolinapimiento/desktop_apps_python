@@ -59,3 +59,4 @@ frame_rojo.place(x=0, y=375)
 # se ejecuta el metodo mainloop de la clase Tk atravez de la instancia ventana_principal, este metodo despliega la ventana en pantalla
 
 ventana_principal.mainloop()
+   

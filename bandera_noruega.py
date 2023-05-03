@@ -27,3 +27,4 @@ frame_azul.config(bg="navy", width=900, height=50)
 frame_azul.place(x=0, y=250)
 
 ventana_principal.mainloop()
+  

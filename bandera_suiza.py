@@ -19,3 +19,4 @@ frame_blanco.config(bg="cornsilk2", width=300, height=100)
 frame_blanco.place(x=100, y=200)
 
 ventana_principal.mainloop()
+ 

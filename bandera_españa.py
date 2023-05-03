@@ -59,3 +59,4 @@ frame_rojo.place(x=120, y=200)
 # run 
 # se ejectua el motodo mainloop() de la clase Tk() a travez de la instancia ventana_principal. Este metodo despliega la ventana en pantalla y queda a la espera de lo que el usuario haga (click en un boton, escribir, etc). cada accion del usuario de conoce como un evento. el metodo mainloop() e un bucle infinito 
 ventana_principal.mainloop()
+  
